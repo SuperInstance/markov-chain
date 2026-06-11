@@ -1,0 +1,9 @@
+[package]
+name = "markov-chain"
+version = "0.1.0"
+description = "A Rust library for Markov Chain"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/casey-digennaro/markov-chain"
+edition = "2021"
+
+[dependencies]
